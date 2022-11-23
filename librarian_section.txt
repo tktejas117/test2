@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>admin section</title>
+</head>
+<body bgcolor="lightgrey">
+<br>
+<br>
+<form>
+<h1 align="center"> LIBRARIAN SECTION</h1>
+<br>
+<br>
+
+<h1 align="center">
+<a href="add_books.html"><input type="button" name="submit1" value="ADD BOOKS"></a>
+</h1>
+
+<h1 align="center">
+<a href="view_books.html"><input type="button" name="submit2" value="VIEW BOOKS"></a>
+</h1>
+
+<h1 align="center">
+<a href="issue_book.html"><input type="button" name="submit3" value="ISSUE BOOK">
+</h1>
+
+<h1 align="center">
+<a href="view_issuedbook.html"><input type="button" name="submit1" value="VIEW ISSUE BOOK">
+</h1>
+
+<h1 align="center">
+<a href="return_book.html"><input type="button" name="submit1" value="RETURN BOOK">
+</h1>
+
+<h1 align="center">
+<a href="page1.html"><input type="button" name="submit1" value="LOGOUT">
+</h1>
+
+</form>
+</body>
+</html>

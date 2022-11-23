@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>ISSUING BOOK</title>
+</head>
+<body bgcolor="lightgreen">
+<h1 align="center">ISSUING BOOK</h1><hr>
+ <form>
+  <table align="center" cellpadding=20>
+   <tr>
+    <td><font size="5">BOOK CALL NO :</td>
+    <td><input type="textbox" name="text1"></td>
+    </tr>
+
+   <tr>
+    <td><font size="5">STUDENT ID :</td>
+    <td><input type="textbox" name="text2"></td>
+   </tr>
+
+   <tr>
+    <td><font size="5">STUDENT NAME :</td>
+   <td><input type="textbox" name="text3"></td>
+   </tr>
+
+   <tr>
+    <td><font size="5">STUDENT CONTACT :</td>
+    <td><input type="textbox" name="text3"></td>
+   </tr>
+   
+   <tr>
+ <td align="center"><input type="button" value="ISSUE BOOK"  alert("added successfully")></td></tr>
+</table>
+ </form>
+<a href="librarian_section.html"><input type="button" value="BACK"></a>
+
+</body>
+</html>
